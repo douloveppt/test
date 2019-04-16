@@ -62,7 +62,6 @@ if __name__ == '__main__':
     # port = sys.argv[2]
     # # 启动flask程序
     # app.run(host=host, port=port, debug=True)
-
     # flask-script管理启动
     manage = Manager(app)
     manage.run()
